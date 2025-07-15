@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ReadSpace1.java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReadSpace1_java_jar</output-path>
+    <root id="archive" name="ReadSpace1.java.jar">
+      <element id="module-output" name="ReadSpace1.java" />
+      <element id="extracted-dir" path="D:/My Software/Java/json-20230618.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/My Software/MySQL/mysql-connector-j-9.3.0/mysql-connector-j-9.3.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
